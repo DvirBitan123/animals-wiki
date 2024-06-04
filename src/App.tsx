@@ -1,11 +1,10 @@
+import Router from "./Router/router"
 
 function App() {
 
   return (
-    <div className='text-[100px] bg-blue-300'>
-      Reput Yadon
-    </div>
-  )
+    <Router />
+    )
 }
 
 export default App
